@@ -1,3 +1,6 @@
+# 5.1.2
+- Patch release, testing the publish script for [govuk_frontend_toolkit_npm](https://github.com/alphagov/govuk_frontend_toolkit_npm). It hasn't [published to npm](https://www.npmjs.com/package/govuk_frontend_toolkit) since 5.0.3.
+
 # 5.1.1
 
 - Update the alpha, beta and discovery colours to $govuk-blue to match the updated phase banner ([PR #370](https://github.com/alphagov/govuk_frontend_toolkit/pull/370))
